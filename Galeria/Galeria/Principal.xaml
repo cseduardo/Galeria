@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Galeria.Principal"
+             xmlns:local="clr-namespace:Galeria;assembly:Galeria"
+            Title="Mi Galeria">
+  <!--Pages can be added as references or inline-->
+    <local:Galeria1/>
+    <local:emb1/>
+    <local:emb2/>
+    <local:emb3/>
+    <local:emb4/>
+    <local:emb5/>
+
+</TabbedPage>

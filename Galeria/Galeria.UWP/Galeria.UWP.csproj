@@ -108,6 +108,13 @@
     <None Include="Galeria.UWP_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="i.jpg" />
+    <Content Include="lol.jpg" />
+    <Content Include="me_gusta_a.png" />
+    <Content Include="me_gusta_b.png" />
+    <Content Include="mp.jpg" />
+    <Content Include="no_me_gusta_a.png" />
+    <Content Include="no_me_gusta_b.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-100.png" />
     <Content Include="Assets\LockScreenLogo.scale-125.png" />
@@ -140,6 +147,8 @@
     <Content Include="Assets\Wide310x150Logo.scale-150.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="t.jpg" />
+    <Content Include="yo.jpg" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">

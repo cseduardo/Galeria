@@ -13,7 +13,7 @@ namespace Galeria
         {
             InitializeComponent();
 
-            MainPage = new Galeria.MainPage();
+            MainPage = new NavigationPage(new Principal());
         }
 
         protected override void OnStart()
